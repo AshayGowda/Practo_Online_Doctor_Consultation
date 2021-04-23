@@ -1,0 +1,3 @@
+Username:test_r Password:123 email:t1@gmail.com Age:20
+Username:Pavan Password:1234 email:pavan@gmail.com Age:18
+Username:Ashay Password:234 email:ashay@gmail.com Age:20

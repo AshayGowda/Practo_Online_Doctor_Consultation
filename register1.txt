@@ -1,0 +1,6 @@
+Username:t1_doc Password:987 email:td1@gmail.com speciality:Dentist
+Username:t2_doc Password:234 email:td2@gmail.com speciality:Cardiologist
+Username:t3_doc Password:789 email:td3@gmail.com speciality:Oncology
+Username:t4_doc Password:456 email:td4@gmail.com speciality:Neurology
+Username:t5_doc Password:abc email:td5@gmail.com speciality:Gynaecology
+Username:t6_doc Password:xyz email:td6@gmail.com speciality:Dermatology
